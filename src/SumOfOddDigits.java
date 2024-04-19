@@ -17,4 +17,4 @@ public class SumOfOddDigits {
         System.out.println("Sum of odd digits: " + sum);
         scanner.close();
     }
-}12345
+}
